@@ -4,11 +4,11 @@ Materials for Python & Text Analysis for Absolute Beginners workshop. [Sample wo
 
 <h3>To replicate our workshop, execute the notebooks in the following order:</h3>
 
-1. [About Constellate](https://github.com/jasf-/tdm-nbs/blob/master/1.AboutConstellate.ipynb)
-2. [Creating a dataset in Constellate](https://github.com/jasf-/tdm-nbs/blob/master/2.CreatingaDatasetinConstellate.ipynb)
-3. [Getting started with Jupyter Notebooks](https://github.com/jasf-/tdm-nbs/blob/master/3.GettingStartedwithJupyterNotebooks.ipynb)
-4. [Getting started with Python](https://github.com/jasf-/tdm-nbs/blob/master/4.GettingStartedwithPython.ipynb)
-5. [Significant terms](https://github.com/jasf-/tdm-nbs/blob/master/5.SignificantTerms.ipynb)
+1. [About Constellate](https://github.com/ResearchDataServicesNU/Python-TextAnalysis/blob/master/1.AboutConstellate.ipynb)
+2. [Creating a dataset in Constellate](https://github.com/ResearchDataServicesNU/Python-TextAnalysis/blob/master/2.CreatingaDatasetinConstellate.ipynb)
+3. [Getting started with Jupyter Notebooks](https://github.com/ResearchDataServicesNU/Python-TextAnalysis/blob/master/3.GettingStartedwithJupyterNotebooks.ipynb)
+4. [Getting started with Python](https://github.com/ResearchDataServicesNU/Python-TextAnalysis/blob/master/4.GettingStartedwithPython.ipynb)
+5. [Significant terms](https://github.com/ResearchDataServicesNU/Python-TextAnalysis/blob/master/5.SignificantTerms.ipynb)
 
 <b>Recommendation:</b> Use [Constellate's environment](https://constellate.org/notebook/own/) to load the notebooks. Requires Northeastern affiliation and JSTOR account.
 
